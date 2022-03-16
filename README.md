@@ -1,0 +1,2 @@
+# Django_FroeignStudies_Website
+Hello Everyone,  I am feeling very happy to share with all of you that I have completed my final project at TCR Innovation as an web developer intern It was a great experience with #TCR.  I would like to thank my mentors #Yuvraj Pandey, #Saheel Ramji , #Rutuja Doiphode to help me throughout this journey!!  Project name:Tokyo University od Foreign Studies IDE used: Visual Studio Code Languages used: HTML,CSS,JAVASCRIPT #intern #html #css #javascript #innovation #github #project
